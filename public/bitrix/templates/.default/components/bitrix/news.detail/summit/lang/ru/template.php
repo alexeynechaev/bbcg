@@ -8,7 +8,7 @@
 	$MESS["EMAIL"] = "E-mail";
 	$MESS["COMPANY"] = "Компания";
 	$MESS["POSITION"] = "Должность";
-	$MESS["WE_WILL_CONTACT_YOU"] = "С вами свяжется NAME, для уточнения деталей в течение 2-х дней";
+	$MESS["WE_WILL_CONTACT_YOU"] = "С вами свяжется NAME, для уточнения деталей в течение 5 минут";
 	$MESS["ALTERNATIVE_REGISTRATION"] = "Альтернативные способы регистрации";
 	$MESS["OR"] = "или";
 	$MESS["CONTACT_PERSON"] = "контактное лицо Ирина Чиннова";
